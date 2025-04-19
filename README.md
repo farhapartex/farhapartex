@@ -2,9 +2,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nazmul-hasan-08/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasan08sust@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
   
 </div>
 
@@ -12,10 +11,10 @@
 
 I'm a passionate software engineer with expertise in backend development and DevOps. I love building scalable applications and exploring new technologies. When I'm not coding, you'll find me riding my bike and exploring new routes!
 
-- 🔭 Currently working with **Python, Django, DRF, Golang, Gin, JavaScript, React.js, Docker**
+- 🔭 Currently working with **Python, Django, DRF, Golang, Gin, JavaScript, React.js, Docker, AWS**
 - 🌱 Currently learning **Kubernetes**
 - 👯 Looking to collaborate on **Golang-based & DevOps related projects**
-- 💬 Ask me about **Data Structures, Algorithms, and Backend Development**
+- 💬 Ask me about **Data Structures, Algorithms, Backend & Frontend Development**
 - ⚡ Fun fact: **I love to ride bikes** 🏍️
 
 ## 🛠️ Tech Stack
@@ -43,11 +42,11 @@ I'm a passionate software engineer with expertise in backend development and Dev
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhapartex&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhapartex&layout=compact&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhapartex&theme=radical)
   
 </div>
 
@@ -77,5 +76,5 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 ---
 
 <div align="center">
-  <i>⭐️ From [Md Nazmul Hasan](https://github.com/your-github-username)</i>
+  <i>⭐️ From [Md Nazmul Hasan](https://github.com/farhapartex)</i>
 </div>
